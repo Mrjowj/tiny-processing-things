@@ -81,4 +81,4 @@ Created for portfolio purposes and personal practice.
 
 ## 📄 License
 
-These projects are released under the MIT License unless otherwise noted.
+MIT License unless otherwise noted (一応)
